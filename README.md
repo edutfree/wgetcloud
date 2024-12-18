@@ -55,3 +55,9 @@ WgetCloud 节点支持 Shadowsocks、SSR、V2ray、Trojan 等协议，并且支�
 <li>季付：￥228/季，240G流量/月。</li>
 <li>年付：￥828/年，320G流量/月。</li>
 </ul>
+
+[![ wgetcloud机场套餐价格-月付](wgetcloud.win_20241218_090016.png)](https://xuv.cc/out/wget)
+
+[![ wgetcloud机场套餐价格-季付](wgetcloud.win_20241218_090023.png)](https://xuv.cc/out/wget)
+
+[![ wgetcloud机场套餐价格-年付](wgetcloud.win_20241218_090030.png)](https://xuv.cc/out/wget)
