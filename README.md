@@ -1,10 +1,10 @@
-# wgetcloud官网地址、最新优惠 & wgetcloud官网怎么样？
+# wgetcloud官网最新地址
 
-wgetcloud最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=wbN8lk)
+wgetcloud官网最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=wbN8lk)
 
 ## 简介
 
-WgetCloud （原 GaCloud） 机场已经稳定运行多年，多线BGP中转+双程CN2优质线路，高峰期也可以稳定可用。支持使用支付宝、USDT 加密货币等付款。
+WgetCloud （原 GaCloud） 已经稳定运行多年，多线BGP中转+双程CN2优质线路，高峰期也可以稳定可用。支持使用支付宝、USDT 加密货币等付款。
 
 WgetCloud 节点支持 Shadowsocks、SSR、V2ray、Trojan 等协议，并且支持所有主流代理软件app订阅格式——Clash、Shadowrocket、Quantumult X、Surge……机场对线路节点采取分组制，单组用户人数满400后便不会增加人数，加上对节点采取了动态限速，有效保证线路稳定行。
 
