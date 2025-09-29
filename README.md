@@ -18,7 +18,7 @@ WgetCloud 节点支持 Shadowsocks、SSR、V2ray、Trojan 等协议，并且支�
 
 ## wgetcloud优惠券
 
-新用户即享85折体验，注册成功自动领取，可前往福利中心查看优惠券！
+新用户即享85折体验，[注册成功](https://invite.wgetcloud.ltd/auth/register?code=wbN8lk)自动领取，可前往福利中心查看优惠券！
 
 首次购买套餐新用户，可额外领取一张7天奈飞体验卡。
 
@@ -29,6 +29,16 @@ WgetCloud 节点支持 Shadowsocks、SSR、V2ray、Trojan 等协议，并且支�
 🛍️ 活动二：礼包商店
 
 👉 活动详情：在活动期限内，您可前往【礼包商店】选购抵扣券礼包。
+
+---
+
+Wgetcloud 日常很少促销活动，国庆节、中秋节推出套餐流量扩展包促销活动：
+
+* 200G 优惠后 ￥60
+* 400G 优惠后 ￥120
+* 600G 优惠后 ￥180
+
+活动地址：[前往购买](https://invite.wgetcloud.ltd/auth/register?code=wbN8lk)
 
 ## WgetCloud特色
 
