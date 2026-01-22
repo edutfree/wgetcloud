@@ -1,8 +1,8 @@
 # wgetcloud官网最新地址
 
-wgetcloud官网最新地址：[wgetcloud.org](https://katp7luhifu2zxnpy8cs.wgetcloud.org/auth/register?code=wbN8lk)
+wgetcloud官网最新地址：[wgetcloud.org](https://katp7luhifu2zxnpy8cs.wgetcloud.org/register?code=wbN8lk)
 
-备用地址：[wgetcloud.ltd](https://katp7luhifu2zxnpy8cs.wgetcloud.org/auth/register?code=wbN8lk)
+备用地址：[wgetcloud.ltd](https://katp7luhifu2zxnpy8cs.wgetcloud.org/register?code=wbN8lk)
 
 ## 简介
 
@@ -20,7 +20,7 @@ WgetCloud 节点支持 Shadowsocks、SSR、V2ray、Trojan 等协议，并且支�
 
 ## wgetcloud优惠券
 
-新用户即享85折体验，[注册成功](https://katp7luhifu2zxnpy8cs.wgetcloud.org/auth/register?code=wbN8lk)自动领取，可前往福利中心查看优惠券！
+新用户即享85折体验，[注册成功](https://katp7luhifu2zxnpy8cs.wgetcloud.org/register?code=wbN8lk)自动领取，可前往福利中心查看优惠券！
 
 首次购买套餐新用户，可额外领取一张7天奈飞体验卡。
 
@@ -40,7 +40,7 @@ Wgetcloud 日常很少促销活动，国庆节、中秋节推出套餐流量扩�
 * 400G 优惠后 ￥120
 * 600G 优惠后 ￥180
 
-活动地址：[前往购买](https://katp7luhifu2zxnpy8cs.wgetcloud.org/auth/register?code=wbN8lk)
+活动地址：[前往购买](https://katp7luhifu2zxnpy8cs.wgetcloud.org/register?code=wbN8lk)
 
 ## WgetCloud特色
 
